@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224427243466",
+    "project_id": "login-jadi",
+    "storage_bucket": "login-jadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224427243466:android:30b67a5bbad75032d74133",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224427243466-tpldgrdagi5m66o76u88jgqri104aqkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZMLcvi6LR_OH21JpRrMbNg2Ti_yjBuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224427243466-tpldgrdagi5m66o76u88jgqri104aqkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
